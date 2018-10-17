@@ -1,4 +1,4 @@
-# Explore-US-Bikeshare-Data
+# Explore-US-Bikeshare-Data-Udacity
 
 ### To Explore data related to bikeshare systems in the U.S. This project has been created as a part of the Udacity Data Analyst Nanodegree, Term 1.
 
